@@ -1,4 +1,4 @@
-package SamplePrograms1;
+//package SamplePrograms1;
 
 public class Table1 {
 	// This example shows the assignment of integers
