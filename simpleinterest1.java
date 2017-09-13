@@ -1,4 +1,4 @@
-package SamplePrograms1;
+//package SamplePrograms1;
 
 public class simpleinterest1 {
 	public static void main(String args[])
