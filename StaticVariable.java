@@ -1,4 +1,4 @@
-package SamplePrograms1;
+//package SamplePrograms1;
 import java.io.*;
 public class StaticVariable {
     // salary variable is a private static variable
